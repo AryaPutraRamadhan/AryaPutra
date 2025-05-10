@@ -22,3 +22,19 @@ Hallo There 😱
 #### My Stats
 
 ![Arya Putra GitHub stats](https://github-readme-stats.vercel.app/api?username=AryaPutra&show_icons=true&theme=gruvbox)
+
+<p align="left">Play games with Arya</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryaPutra/AryaPutra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryaPutra/AryaPutra/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AryaPutra/AryaPutra/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/AryaPutra/AryaPutra/output/snake.svg" alt="Snake animation" />
+
+###
